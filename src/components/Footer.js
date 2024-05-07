@@ -1,7 +1,7 @@
 export default function Footerr(){
   return(
     <footer>
-    <section className="bg-primary">
+    <section className="bg-secondary">
       <div className="container">
         <div className="row pb-4 pt-5">
           <div className="col-xl-4">
@@ -18,7 +18,7 @@ export default function Footerr(){
         </div>
       </div>
     </section>
-    <section className="bg-secondary">
+    <section className="bg-dark">
       <div className="container">
         <div className="row">
           <div className="col-xl-12 text-center mt-3 mb-1">

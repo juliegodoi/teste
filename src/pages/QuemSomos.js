@@ -5,7 +5,7 @@ export default function QuemSomos() {
   return (
     <>
       <Navbar />
-      <div className="container">
+      <div className="container mt-5 pt-5 mb-5 pb-5">
         <table className="table table-hover">
           <thead>
             <tr>
