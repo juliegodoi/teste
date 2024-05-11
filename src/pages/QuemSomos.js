@@ -36,7 +36,7 @@ export default function QuemSomos() {
           </tbody>
         </table>
       </div>
-      <Footer />
+      <Footer copy="&copy; reutilizando componente com props 1"/>
     </>
   );
 }

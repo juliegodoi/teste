@@ -24,7 +24,7 @@ export default function NossosProjetos() {
           </a>
         </div>
       </div>
-      <Footer />
+      <Footer copy="&copy; reutilizando componente com props 2"/>
     </>
   );
 }

@@ -10,7 +10,7 @@ export default function Inicio() {
       <Navbar/>
       <Header/>
       <About/>
-      <Footer/>
+      <Footer copy="&copy; Teste React com Bootstrap 2024"/>
     </div>
   );
 }

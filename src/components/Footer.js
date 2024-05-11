@@ -1,4 +1,4 @@
-export default function Footerr(){
+export default function Footerr(props){
   return(
     <footer>
     <section className="bg-secondary">
@@ -22,7 +22,7 @@ export default function Footerr(){
       <div className="container">
         <div className="row">
           <div className="col-xl-12 text-center mt-3 mb-1">
-            <p className="text-white">&copy; 2024 React-Bootstrap-Teste</p>
+            <p className="text-white">{props.copy}</p>
           </div>
         </div>
       </div>
