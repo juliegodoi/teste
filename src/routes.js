@@ -1,7 +1,7 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import QuemSomos from './pages/QuemSomos.js'
-import Inicio from './pages/Inicio.js'
-import NossosProjetos from './pages/NossosProjetos.js'
+import QuemSomos from './pages/QuemSomos'
+import Inicio from './pages/Inicio'
+import NossosProjetos from './pages/NossosProjetos'
 
 function AppRoutes() {
   return(

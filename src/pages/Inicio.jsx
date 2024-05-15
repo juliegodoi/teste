@@ -1,7 +1,7 @@
-import Navbar from '../components/Navbar.js';
-import Header from '../components/Header.js';
-import About from '../components/About.js';
-import Footer from '../components/Footer.js';
+import Navbar from '../components/Navbar';
+import Header from '../components/Header';
+import About from '../components/About';
+import Footer from '../components/Footer';
 
 
 export default function Inicio() {
